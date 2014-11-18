@@ -1,0 +1,11 @@
+<!--
+  Plugin descriptor for the DITA Community media domain HTML processing. 
+
+  Copyright (c) 2012 DITA For Publishers, 2014 DITA Community
+
+  
+  Implements HTML rendering for the media domain.
+  -->
+<plugin id="org.dita-community.media-d.html">
+  <feature extension="dita.xsl.xhtml" value="xsl/media-d2html.xsl" type="file"/>
+</plugin>
